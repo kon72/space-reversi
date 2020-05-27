@@ -1,4 +1,4 @@
-# [Space Reversi](https://github.com/kinsei0916/space-reversi)
+# [Space Reversi](https://kinsei0916.github.io/space-reversi)
 
 盤面が無限のリバーシ
 
