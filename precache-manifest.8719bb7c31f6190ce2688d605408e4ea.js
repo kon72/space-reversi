@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0799bc41addd0b5db71106eb0f6cbf0d",
+    "revision": "5779152211173935b383aa134a240ad1",
     "url": "/space-reversi/index.html"
   },
   {
