@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/space-reversi/static/css/main.6847f0fd.chunk.css",
-    "main.js": "/space-reversi/static/js/main.59865fb8.chunk.js",
-    "main.js.map": "/space-reversi/static/js/main.59865fb8.chunk.js.map",
+    "main.js": "/space-reversi/static/js/main.ba7f9250.chunk.js",
+    "main.js.map": "/space-reversi/static/js/main.ba7f9250.chunk.js.map",
     "runtime-main.js": "/space-reversi/static/js/runtime-main.57538f91.js",
     "runtime-main.js.map": "/space-reversi/static/js/runtime-main.57538f91.js.map",
     "static/js/2.0fd37ac8.chunk.js": "/space-reversi/static/js/2.0fd37ac8.chunk.js",
     "static/js/2.0fd37ac8.chunk.js.map": "/space-reversi/static/js/2.0fd37ac8.chunk.js.map",
     "index.html": "/space-reversi/index.html",
-    "precache-manifest.d3e714f3e6f2c32f5e72ffe4a40d41fa.js": "/space-reversi/precache-manifest.d3e714f3e6f2c32f5e72ffe4a40d41fa.js",
+    "precache-manifest.203d92d7206fd5db169da8bdb41b024d.js": "/space-reversi/precache-manifest.203d92d7206fd5db169da8bdb41b024d.js",
     "service-worker.js": "/space-reversi/service-worker.js",
     "static/css/main.6847f0fd.chunk.css.map": "/space-reversi/static/css/main.6847f0fd.chunk.css.map",
     "static/js/2.0fd37ac8.chunk.js.LICENSE.txt": "/space-reversi/static/js/2.0fd37ac8.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.57538f91.js",
     "static/js/2.0fd37ac8.chunk.js",
     "static/css/main.6847f0fd.chunk.css",
-    "static/js/main.59865fb8.chunk.js"
+    "static/js/main.ba7f9250.chunk.js"
   ]
 }

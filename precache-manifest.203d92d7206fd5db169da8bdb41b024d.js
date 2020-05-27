@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "798392c09bedcc5ee27fb8e3dea1556d",
+    "revision": "0799bc41addd0b5db71106eb0f6cbf0d",
     "url": "/space-reversi/index.html"
   },
   {
-    "revision": "f7cbdcd204d689737c7c",
+    "revision": "38edaba464c4f5cc02e7",
     "url": "/space-reversi/static/css/main.6847f0fd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/space-reversi/static/js/2.0fd37ac8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7cbdcd204d689737c7c",
-    "url": "/space-reversi/static/js/main.59865fb8.chunk.js"
+    "revision": "38edaba464c4f5cc02e7",
+    "url": "/space-reversi/static/js/main.ba7f9250.chunk.js"
   },
   {
     "revision": "daef576dfbe915384f16",
